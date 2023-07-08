@@ -1,4 +1,4 @@
-<img src="./static/intro.svg">
+<img height="300" src="./static/intro.svg">
 <div>&nbsp;</div>
 <img src="./static/spacer.svg">
 
