@@ -3,6 +3,7 @@
 <img src="./static/spacer.svg">
 
 <h3>my languages include...</h3>
+
 <img height="30" width="30" src="static\logos\python.svg"></img>
 <img height="30" width="30" src="static\logos\cplusplus.svg"></img>
 <img height="30" width="30" src="static\logos\javascript.svg"></img>
@@ -10,6 +11,7 @@
 <img height="30" width="30" src="static\logos\csharp.svg"></img>
 
 <h3>my frontend stack includes...</h3>
+
 <img height="30" width="30" src="static\logos\react.svg"></img>
 <img height="30" width="30" src="static\logos\nextdotjs.svg"></img>
 <img height="30" width="30" src="static\logos\tailwindcss.svg"></img>
