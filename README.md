@@ -18,10 +18,12 @@
 
 <p><h3>my industry skills include <img height="10" width="10" src="static\arrow.svg"></p></h3>
 
+<p>
 <img alt="aws lambda" height="30" width="30" src="static\logos\awslambda.svg">
 <img alt="amazon api gateway" height="30" width="30" src="static\logos\amazonapigateway.svg">
 <img alt="amazon s3" height="30" width="30" src="static\logos\amazons3.svg">
 <img alt="azure" height="30" width="30" src="static\logos\microsoftazure.svg">
+</p>
 
 
 <p><h3>my other skills include <img height="10" width="10" src="static\arrow.svg"></p></h3>
