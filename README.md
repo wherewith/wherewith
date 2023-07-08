@@ -1,5 +1,4 @@
 <img height="300" src="./static/intro.svg">
-<div>&nbsp;</div>
 <img src="./static/spacer.svg">
 
 <h3>my languages include <img height="10" width="10" src="./static/arrow.svg"></h3>
