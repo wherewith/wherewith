@@ -1,7 +1,7 @@
-<img height="300" src="./static/intro.svg">
-<img src="./static/spacer.svg">
+<img width="900" src="./static/intro.svg">
+<img width="900" src="./static/spacer.svg">
 
-<h3>my languages include <img height="10" width="10" src="./static/arrow.svg"></h3>
+<h3>my languages <img height="10" width="10" src="./static/arrow.svg"></h3>
 
 <p>
 <img alt="python" title="python" height="30" width="30" src="./static/logos/python.svg">
@@ -11,7 +11,7 @@
 <img alt="c#" title="c#" height="30" width="30" src="./static/logos/csharp.svg">
 </p>
 
-<h3>my frontend stack includes <img height="10" width="10" src="./static/arrow.svg"></h3>
+<h3>my frontend stack <img height="10" width="10" src="./static/arrow.svg"></h3>
 
 <p>
 <img alt="react" title="react" height="30" width="30" src="./static/logos/react.svg">
@@ -19,7 +19,7 @@
 <img alt="tailwind css" title="tailwind css" height="30" width="30" src="./static/logos/tailwindcss.svg">
 </p>
 
-<h3>my industry skills include <img height="10" width="10" src="./static/arrow.svg"></h3>
+<h3>my industry skills <img height="10" width="10" src="./static/arrow.svg"></h3>
 
 <p>
 <img alt="aws lambda" title="aws lambda" height="30" width="30" src="./static/logos/awslambda.svg">
@@ -29,7 +29,7 @@
 </p>
 
 
-<h3>my other skills include <img height="10" width="10" src="./static/arrow.svg"></h3>
+<h3>my other skills <img height="10" width="10" src="./static/arrow.svg"></h3>
 
 <p>
 <img alt="adobe illustrator" title="adobe illustrator" height="30" width="30" src="./static/logos/adobeillustrator.svg">
