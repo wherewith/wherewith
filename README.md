@@ -1,5 +1,5 @@
-<img width="900" src="./static/intro.svg">
-<img width="900" src="./static/spacer.svg">
+<img width="750" src="./static/intro.svg">
+<img width="750" src="./static/spacer.svg">
 
 <h3>my languages <img height="10" width="10" src="./static/arrow.svg"></h3>
 
