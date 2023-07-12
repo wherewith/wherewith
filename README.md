@@ -1,4 +1,4 @@
-<img width="1000" src="./static/intro.svg">
+<img width="1000" src="./static/intro.png">
 <img width="1000" src="./static/spacer.svg">
 
 <h3>my languages <img height="10" width="10" src="./static/arrow.svg"></h3>
