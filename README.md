@@ -9,6 +9,7 @@
 <img alt="javascript" title="javascript" height="30" width="30" src="./static/logos/javascript.svg">
 <img alt="swift" title="swift" height="30" width="30" src="./static/logos/swift.svg">
 <img alt="c#" title="c#" height="30" width="30" src="./static/logos/csharp.svg">
+<img alt="java" title="java" height="30" width="30" src="./static/logos/java.svg">
 </p>
 
 <h3>my frontend stack <img height="10" width="10" src="./static/arrow.svg"></h3>
